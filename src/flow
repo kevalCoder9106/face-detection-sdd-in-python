@@ -1,0 +1,19 @@
+Step 1: Load model
+
+Step 2: Read image
+
+Step 3: Process image -> resize image
+
+Step 4: Detection -> run model -> apply confidence -> give object location
+
+Step 5: Get coordinates
+
+Step 6: Draw rectangle
+
+Step 7: Print text (optional)
+
+Step 8: Define font for text (optional)
+
+Step 9: Show image in window
+
+Step 10: Save image source (optional)
